@@ -1,0 +1,2 @@
+DEBUG:__main__:OpenDSSDirect.py version: {dss.__version__}
+DEBUG:__main__:Working dicrectory: /home/tylor/dev/k-level-cooperation/input/ieee123/qsts
